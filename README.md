@@ -1,24 +1,22 @@
-<!-- Encabezado con efecto visual -->
+<!-- Encabezado con gif -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=700&color=00C4FF&center=true&vCenter=true&width=500&lines=%F0%9F%8C%9F+Bienvenid%40+a+mi+perfil!" alt="Typing SVG" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pqY3gxaGoxMWtjMG0wYWJzdG83aTZ2MnJpNW5vcDlkeHcyb200YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kje0rsDyVEMEzQLPol/giphy.gif" width="250" alt="Developer Coding Gif" />
 </p>
 
-<!-- GIF principal -->
+<!-- Texto animado de bienvenida -->
 <p align="center">
-  <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="300" alt="Developer Coding Gif" />
+  <b>✨ Bienvenid@ a mi perfil ✨</b>
+</p>
+
+<!-- Divider animado -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%">
 </p>
 
 <!-- Tecnologías -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,git,github&perline=7" />
 </p>
-
-<!-- Separador animado -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=120&section=footer" />
-</p>
-
-
 
 
 
