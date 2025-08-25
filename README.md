@@ -1,6 +1,25 @@
-## Hi there 👋
+<!-- Encabezado con efecto visual -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=700&color=00C4FF&center=true&vCenter=true&width=500&lines=%F0%9F%8C%9F+Bienvenid%40+a+mi+perfil!" alt="Typing SVG" />
+</p>
 
-<!--
-<div align="center">
-  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGlpYTBkY3V2dGYxN242MGI2NzF6bmEwMTZ5YWZ4emYycHhtM3J4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cPyiJw5NsCXhhRELdf/giphy.gif)"  />
-</div>
+<!-- GIF principal -->
+<p align="center">
+  <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="300" alt="Developer Coding Gif" />
+</p>
+
+<!-- Tecnologías -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,git,github" />
+</p>
+
+<!-- Separador animado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=120&section=footer" />
+</p>
+
+
+
+
+
+
